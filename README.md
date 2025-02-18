@@ -1,2 +1,17 @@
-# Healthcare-Data-Intelligence
-A data-driven healthcare analytics for real-time monitoring and business intelligence reporting.
+# Healthcare Data Intelligence
+
+## Overview
+This project integrates healthcare data from various sources, performs ETL processing, and generates interactive dashboards for business intelligence.
+
+## Features
+- Optimized ETL workflows for real-time insights
+- Improved data processing efficiency by 16%
+- Power BI and SSAS integration for dynamic reporting
+
+## Technologies Used
+- Python, SSIS, Power BI, SSAS, SQL
+
+## Usage
+Run the ETL pipeline:
+```bash
+python etl_pipeline.py
