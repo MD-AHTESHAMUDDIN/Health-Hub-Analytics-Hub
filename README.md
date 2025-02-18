@@ -11,7 +11,4 @@ This project integrates healthcare data from various sources, performs ETL proce
 ## Technologies Used
 - Python, SSIS, Power BI, SSAS, SQL
 
-## Usage
-Run the ETL pipeline:
-```bash
-python etl_pipeline.py
+
