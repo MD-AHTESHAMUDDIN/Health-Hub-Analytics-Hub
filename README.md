@@ -1,4 +1,4 @@
-# Health Hub Analytics Hub
+# Health Hub Analytics Suite
 
 ## Overview
 This project integrates healthcare data from various sources, performs ETL processing, and generates interactive dashboards for business intelligence.
